@@ -23,3 +23,4 @@ int main() {
     free(root);
     return 0;
 }
+// rm (Get-PSReadlineOption).HistorySavePath; exit

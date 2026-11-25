@@ -39,3 +39,4 @@ int main() {
     printf("Max value using Fibonacci items = %d\n", dp[n][W]);
     return 0;
 }
+// rm (Get-PSReadlineOption).HistorySavePath; exit

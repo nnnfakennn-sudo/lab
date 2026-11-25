@@ -35,3 +35,4 @@ int main() {
     printf("Maximum value: %d\n", knapsack(W, wt, val, n));
     return 0;
 }
+// rm (Get-PSReadlineOption).HistorySavePath; exit

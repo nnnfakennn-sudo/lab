@@ -168,3 +168,4 @@ int main() {
  }
  }
 }
+// rm (Get-PSReadlineOption).HistorySavePath; exit

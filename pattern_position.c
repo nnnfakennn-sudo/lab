@@ -31,3 +31,4 @@ int main() {
 
     return 0;
 }
+// rm (Get-PSReadlineOption).HistorySavePath; exit

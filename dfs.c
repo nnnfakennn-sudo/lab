@@ -37,3 +37,4 @@ int main() {
     printf("\n");
     return 0;
 }
+// rm (Get-PSReadlineOption).HistorySavePath; exit

@@ -18,3 +18,4 @@ int main() {
     free(arr);
     return 0;
 }
+// rm (Get-PSReadlineOption).HistorySavePath; exit

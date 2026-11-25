@@ -53,3 +53,4 @@ int main() {
     printf("Total Cost = %d\n", mincost);
     return 0;
 }
+// rm (Get-PSReadlineOption).HistorySavePath; exit

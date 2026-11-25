@@ -44,3 +44,4 @@ int main() {
     bfs(start);
     return 0;
 }
+// rm (Get-PSReadlineOption).HistorySavePath; exit

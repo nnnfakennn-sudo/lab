@@ -45,3 +45,4 @@ int main() {
     printf("Maximum Value = %.2f\n", totalVal);
     return 0;
 }
+// rm (Get-PSReadlineOption).HistorySavePath; exit

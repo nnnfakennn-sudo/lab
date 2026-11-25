@@ -19,3 +19,4 @@ int main() {
     printf("%d C %d = %lld\n", n, r, nCr(n, r));
     return 0;
 }
+// rm (Get-PSReadlineOption).HistorySavePath; exit

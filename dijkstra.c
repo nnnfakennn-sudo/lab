@@ -67,3 +67,4 @@ int main() {
     dijkstra(graph, V, src);
     return 0;
 }
+// rm (Get-PSReadlineOption).HistorySavePath; exit

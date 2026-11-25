@@ -54,3 +54,4 @@ int main() {
         printf("Not found\n");
     return 0;
 }
+// rm (Get-PSReadlineOption).HistorySavePath; exit
