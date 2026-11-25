@@ -19,11 +19,8 @@ C programs for competitive programming lab exam.
 | fibonacci_knapsack.c | Fibonacci Knapsack (DP) |
 | bfs.c | Breadth First Search |
 | dfs.c | Depth First Search |
-| bellman_ford.c | Bellman-Ford Shortest Path |
 | line_intersection.c | Line Segment Intersection |
 | convex_hull.c | Convex Hull using Graham's Scan |
-| edmonds_karp.c | Edmonds-Karp Maximum Flow |
-| floyd_warshall.c | Floyd-Warshall All-Pairs Shortest Path |
 | dijkstra.c | Dijkstra's Shortest Path |
 | kruskal.c | Kruskal's Minimum Spanning Tree |
 | pattern_position.c | Pattern Matching / Position Finder |
